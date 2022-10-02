@@ -14,11 +14,11 @@
 
 // Include theme-specific fonts
 @import url(https://fonts.googleapis.com/css?family=Quicksand:400,700,400italic,700italic);
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700);
+@import url(https://fonts.googleapis.com/css2?family=Gochi+Hand&display=swap);
 
 
 // Override theme settings (see ../template/settings.scss)
-$mainFont: 'Open Sans', sans-serif;
+$mainFont: 'Gochi Hand', cursive;
 $mainColor: #333;
 $headingFont: 'Quicksand', sans-serif;
 $headingColor: #333;

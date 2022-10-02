@@ -4,7 +4,7 @@
  * Copyright (C) 2011-2012 Hakim El Hattab, http://hakim.se
  */
 @import url(https://fonts.googleapis.com/css?family=Quicksand:400,700,400italic,700italic);
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700);
+@import url(https://fonts.googleapis.com/css2?family=Gochi+Hand&display=swap);
 .reveal a {
   line-height: 1.3em;
 }
@@ -18,7 +18,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
  *********************************************/
 :root {
   --r-background-color: #f7fbfc;
-  --r-main-font: Open Sans, sans-serif;
+  --r-main-font: Gochi Hand, cursive;
   --r-main-font-size: 40px;
   --r-main-color: #333;
   --r-block-margin: 20px;
